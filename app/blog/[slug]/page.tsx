@@ -12,7 +12,8 @@ export default function Page({ params }: Params) {
   return (
     <>
       <h1>Slug: {params.slug}</h1>
-      <p>Dylan Tran</p>
+      <p>DylanTran</p>
+      <p>Angeline Chung</p>
     </>
   );
 }
